@@ -1,6 +1,6 @@
-salm = "BROOOO"
-salm = salm.lower()
-print(salm)
+nama =1
+dtr = "helo"+str(nama)
+print(dtr)
 
 salam = "opa Pergi Ke"
 apakah = salam.istitle()

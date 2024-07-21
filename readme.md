@@ -5,4 +5,5 @@ nb python adalah turunan dari c maka kita bisa menggunakan bahasa c dalam python
 operator assigment sama dengan di c++ seperti a+=b dst
 format (f) ada beberapa methoth {var:penambahan methodt}
 pengecekkan pada sting pake in dan lawanya not indexing [0,2,4,6,8,10]= [0:10:2]. min max pada string di tentukan dari asci code
-cara cek apakah adaa yang sama di awal kata dan akhir pake startswith. penggabungan komponen pake join() pemecah pake split()
+cara cek apakah adaa yang sama di awal kata dan akhir pake startswith. penggabungan komponen pake join() pemecah pake split() alokasi karakter rjust ljust center (justify) penghitung index di masukkan ke kata, strip untuk menghilangkan kata tertentu
+prnggunaaan agar cepat tanpa spasi pake f""" """
